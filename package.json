@@ -1,0 +1,16 @@
+{
+  "name": "gap-node-mock",
+  "version": "1.0.0",
+  "description": "gap-node-mock",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "1162882015@qq.com",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "klaw-sync": "^3.0.2",
+    "lodash": "^4.17.5"
+  }
+}
