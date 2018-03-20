@@ -1,6 +1,6 @@
 {
   "name": "gap-node-mock",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "gap-node-mock",
   "main": "index.js",
   "scripts": {
