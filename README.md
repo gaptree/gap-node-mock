@@ -12,6 +12,6 @@ const express = require('express');
 
 const app = express();
 
-app.use('/', mockMiddleware({baseDir: xxx;});
+app.use('/', mockMiddleware({mockDir: xxx});
 
 app.listen(port || 3000);
