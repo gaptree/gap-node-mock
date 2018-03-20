@@ -7,4 +7,4 @@ module.exports = (opts) => {
     const routersDir = path.join(mockDir, 'routers');
 
     return geneRouter(resolveFile(routersDir));
-}
+};

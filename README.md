@@ -14,4 +14,4 @@ const app = express();
 
 app.use('/', mockMiddleware({mockDir: xxx});
 
-app.listen(port || 3000);
+app.listen(port);

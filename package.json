@@ -3,10 +3,12 @@
   "version": "1.0.2",
   "description": "gap-node-mock",
   "main": "index.js",
+  "repository": "https://github.com/gaptree/gap-node-mock",
+  "author": "ss9501 <kiddshao@gmail.com>",
   "scripts": {
+    "eslint": "eslint .",
     "test": "test"
   },
-  "author": "1162882015@qq.com",
   "license": "MIT",
   "dependencies": {
     "express": "^4.16.3",
