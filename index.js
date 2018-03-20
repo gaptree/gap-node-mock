@@ -1,5 +1,5 @@
-const resolveFile = require('./lib/ResolveFile');
-const geneRouter = require('./lib/GeneRouter');
+const resolveFile = require('./lib/resolveFile');
+const geneRouter = require('./lib/geneRouter');
 const path = require('path');
 
 module.exports = (opts) => {
