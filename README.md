@@ -19,7 +19,7 @@ app.listen(port);
 
 ### Get start
 
-#### 1. create a directory where to place your routers and data
+#### 1. create a directory to place your routers and data
 ![structure](https://raw.githubusercontent.com/ss9501/user-guide-about/master/pics/node-mock-directory.png)
 #### 2. edit your route files
 ![/](https://github.com/ss9501/user-guide-about/blob/master/pics/node-mock-root.png?raw=true)
